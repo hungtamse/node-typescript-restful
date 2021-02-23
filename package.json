@@ -1,0 +1,19 @@
+{
+  "name": "node-typescript-restful",
+  "version": "1.0.0",
+  "description": "Buildling REST API with Node and Express are writing TypeScript",
+  "main": "dist/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hungtamse/node-typescript-restful.git"
+  },
+  "author": "Tam Le",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/hungtamse/node-typescript-restful/issues"
+  },
+  "homepage": "https://github.com/hungtamse/node-typescript-restful#readme"
+}
